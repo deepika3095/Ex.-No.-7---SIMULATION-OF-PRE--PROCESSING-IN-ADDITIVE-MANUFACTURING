@@ -44,9 +44,20 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/deepika3095/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625159/72fbab09-2d50-4b37-a85c-99a95e5a0acc)
+![image](https://github.com/deepika3095/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625159/4332c341-569b-4899-b7fb-2b64faa14325)
+![image](https://github.com/deepika3095/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625159/cb416fb7-f0ab-4bd1-b506-de3ecc98ea3e)
+![image](https://github.com/deepika3095/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625159/5c338bcd-4a52-406d-9dd2-2274d351d946)
+![image](https://github.com/deepika3095/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625159/0cc86aaf-ef86-48c1-b7b7-f3f9d0e7a456)
+![image](https://github.com/deepika3095/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625159/e8073376-37a0-4937-a4d8-a00ede2e5287)
+![image](https://github.com/deepika3095/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625159/2fadadf0-7c31-4fa7-95f6-8a1f2808c449)
+![image](https://github.com/deepika3095/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625159/a7291fe8-a633-4f07-be07-cafee0f75bb3)
+![image](https://github.com/deepika3095/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625159/5df37439-cdc5-44db-a261-79f0eddee13d)
+![image](https://github.com/deepika3095/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151625159/5be21409-19ef-4d6a-b96f-99f29e472d51)
 
-### Name:
-### Register Number:
+
+### Name: Deepika R
+### Register Number: 23006405
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
